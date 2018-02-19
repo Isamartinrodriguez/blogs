@@ -1,3 +1,19 @@
+Topics I want to cover below:
+
+* We are not working on issues right now
+* We are not ignoring you
+* News on v4
+  * Internally, it is a complete rewrite
+  * Web Components using Stencil
+  * Angular layer is thin
+  * Relies more on the chosen framework
+  * Support for other frameworks is forthcoming
+  * For upgrading apps from v3 to v4, there will be breaking changes, but not huge breaking changes
+* Ionic v3 should be considered frozen at this point 
+
+What I have currently needs serious refinement (and probably spell checking)...
+
+
 # Madison, We Have Some Issues...
 
 Many of you have noticed that we have not been keeping a very close eye on the issues lately. Some of you have even let us know that you noticed. This is just a short note to let you know that we are not ignoring you. It may seem like we are, and for that we are truely sorry. We love the Ionic developer community and would never abandon you.

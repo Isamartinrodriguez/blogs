@@ -1,3 +1,6 @@
+**NOTE** this needs spell checking and some refinement. Some phrasing is too verbose and other phrasing is repetative. The goal of "quick to close" being in the best interest of constant product improvement may also need to be expanded upon from what I currently have...
+
+
 # Issue Closing Announcement
 
 Soon we will close and lock all open issues in the Ionic Framework issue list. We are not doing this because we think they are fixed. As a matter of fact, we _know_ that a lot of them are still issues. Here is what is going on:
@@ -18,5 +21,6 @@ Here is how the issue list will be managed going forward:
 * issues that cannot be duplicated will be labeled as such and close immediatly, but will remain unlocked for a period of time in case further information can be provided in order to help duplicate the issue
 * significant issues should always be accompanied by a small sample program that has been pushed to a GitHub repo, if this is missing it will be asked for, but the issue will be closed and locked if it is not supplied within a reasonable period of time
 * issues that have not seen activity from anyone (including us) shall be closed and locked, which does not mean the issue is solved, only that it is not currently something that anyone has time to work on
+* feature requests will be labeled as such and left in the issue list rather than being moved to a private repo, allowing for better community visibility into the list of requested features
 
 The goal of all of this is to ensure that the team is always working on fixing the most important issues out there, and that no important issues are being missed or burried. That can only be accomplished by a combination of actively fixing the issues that we can and agressively managing the rest of the issue list.
